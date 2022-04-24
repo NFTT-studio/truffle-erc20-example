@@ -31,5 +31,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.25"
   }
 }
